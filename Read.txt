@@ -1,0 +1,1 @@
+okay so this is eda_automate which can automate some eda process by already running the code which was to be written by the data analyst.It is the starting of eda_automate so at this point of time it cannot be used fully for eda purposes but it can give brief info about data of the csv file  .
